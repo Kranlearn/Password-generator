@@ -102,13 +102,8 @@ POST /api/generate
 - Longueur entre **4 et 128 caractères**
 
 --()
-### 3. Crée un repo sur GitHub
-- Va sur [github.com](https://github.com)
-- Clique sur **"New repository"**
-- Nom : `password-generator`
-- Clique **"Create repository"**
 
-### 4. Initialise et pousse le projet
+### 3. Initialiser le projet
 ```bash
 
 ---
